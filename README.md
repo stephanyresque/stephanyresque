@@ -1,7 +1,7 @@
 # Hey, I'm Stephany Resque! :wave: :vulcan_salute:
 
 
-I'm a data scientist proficient in Python, currently working on projects involving Data Analysis, Machine Learning, Deep Learning, and Computer Vision. I have experience in developing and optimizing models, extracting insights from data to create intelligent solutions.
+I'm a data scientist proficient in Python, currently working on projects involving Data Analysis, Machine Learning, Deep Learning, Data Engineering and Computer Vision. I have experience in developing and optimizing models, extracting insights from data to create intelligent solutions.
 
 
 <div style="display: inline-block"> 
